@@ -1,0 +1,6 @@
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\bin\TestWebApp.dll
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\bin\TestWebApp.pdb
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\obj\Debug\TestWebApp.csproj.AssemblyReference.cache
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\obj\Debug\TestWebApp.csproj.CoreCompileInputs.cache
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\obj\Debug\TestWebApp.dll
+C:\Work\temp\XmCloudCustomDeploy\src\TestWebApp\obj\Debug\TestWebApp.pdb

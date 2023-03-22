@@ -1,0 +1,22 @@
+# may contain OAuth secrets, do not commit
+.sitecore/user.json
+
+# package reference cache
+.sitecore/package-cache
+
+# Ephemeral index caches used by serialization, do not commit
+.scindex
+
+# Don't commit packages
+*.itempackage
+*.sicpackage
+
+# Build related folders/files
+.vs
+.vscode
+.sitecore
+/artifacts/
+buildscript/tools/
+
+# TestData packages installation folder
+buildscript/testDataPackages
