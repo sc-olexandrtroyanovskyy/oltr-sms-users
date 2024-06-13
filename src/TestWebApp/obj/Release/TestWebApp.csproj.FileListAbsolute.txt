@@ -66,7 +66,4 @@ C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\App_Da
 C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\App_Data\items\master\items.master.graphQlServicesApiKey.dat
 C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\App_Data\items\master\items.master.graphQlServicesTestData.dat
 C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\App_Data\items\master\items.master.sxaTestData.dat
-C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\bin\Sitecore.LayoutService.Analytics.dll
-C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\bin\Sitecore.LayoutService.dll
-C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\bin\Sitecore.LayoutService.GraphQL.dll
-C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\bin\Sitecore.LayoutService.Mvc.dll
+C:\Files\Dev\oltr-sms-users\src\TestWebApp\obj\Release\Package\PackageTmp\bin\Sitecore.Services.GraphQL.EdgeSchema.dll
