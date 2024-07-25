@@ -4,9 +4,9 @@
 		<setting name="JavaScriptServices.ViewEngine.Http.JssEditingSecret" value ="4sYJ8gcpmUc8cx5oTIJnpQ" />
 		
 		  <setting name="JavaScriptServices.ViewEngine.Http.Domain" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_Domain)" />
-<setting name="JavaScriptServices.ViewEngine.Http.Audience" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_Audience)" />
-<setting name="JavaScriptServices.ViewEngine.Http.ClientId" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_ClientId)" />
-<setting name="JavaScriptServices.ViewEngine.Http.ClientSecret" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_ClientSecret)" />
+<setting name="JavaScriptServices.ViewEngine.Http.AuthenticationAudience" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_Audience)" />
+<setting name="JavaScriptServices.ViewEngine.Http.AuthenticationClientId" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_ClientId)" />
+<setting name="JavaScriptServices.ViewEngine.Http.AuthenticationClientSecret" value="$(env:SITECORE_FedAuth_dot_Auth0_dot_ClientSecret)" />
 		
 		
 	</settings>
