@@ -64,7 +64,6 @@
     <Content Include="App_Config\**" />
     <Content Include="App_Data\**" />
     <Content Include="bin\**" />
-	<Content Include="_CMP\**" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
